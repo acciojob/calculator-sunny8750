@@ -129,4 +129,3 @@ function result(){
  dis()
 }
 ans.addEventListener("click" ,result);
-Footer
